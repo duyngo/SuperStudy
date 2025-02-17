@@ -1,2 +1,2 @@
 # SuperStudy
-learning neuro network
+Learning Neural Network to Deep Seek
