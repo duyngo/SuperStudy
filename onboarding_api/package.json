@@ -1,0 +1,33 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "onboarding service for BigCo, Inc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/api-tool-kit/onboarding.git"
+  },
+  "keywords": [
+    "mamund",
+    "apitoolkit",
+    "bigco",
+    "pragprog"
+  ],
+  "author": "Mike Amundsen (@mamund)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/api-tool-kit/onboarding/issues"
+  },
+  "homepage": "https://github.com/api-tool-kit/onboarding#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
